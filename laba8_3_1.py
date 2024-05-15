@@ -23,3 +23,4 @@ if holiday in holiday_cards:
     image.show()
 else:
     print("Извините, открытки для этого праздника не найдено.")
+
